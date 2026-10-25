@@ -1,0 +1,1912 @@
+[
+ {
+  "version": "1.0.45",
+  "date": "2026-10-16",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "새로운 기능"
+   },
+   {
+    "type": "item",
+    "text": "연간 프리미엄: 1년 단위로 결제하는 프리미엄이 추가되었습니다. 월간 6개월 가격으로 1년 동안 모든 프리미엄 혜택을 이용할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "학습 카드 오른쪽 위의 별을 누르면 그 단어를 바로 내 단어장에 담을 수 있습니다. 한 번 더 누르면 뺄 수 있어요. (프리미엄)"
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "월 구독(무료 체험 포함) 중에 평생 프리미엄을 구매하면, 월 구독을 해지하는 방법을 바로 안내합니다. 월 구독은 자동으로 해지되지 않으니 안내에 따라 해지해 주세요."
+   },
+   {
+    "type": "item",
+    "text": "앱을 새로 설치한 뒤 청해에서 예문 음성이 받아지지 않던 문제를 고쳤습니다."
+   },
+   {
+    "type": "item",
+    "text": "이름 입력, 플레이리스트·단어장 만들기에서 키보드가 입력칸을 가리던 문제를 고쳤습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New"
+   },
+   {
+    "type": "item",
+    "text": "Yearly Premium: every Premium benefit for a full year at the price of 6 months."
+   },
+   {
+    "type": "item",
+    "text": "Tap the star on a study card to save the word to My Lists; tap again to remove. (Premium)"
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Buying Lifetime during a monthly plan or free trial now shows how to cancel it. The monthly plan isn't cancelled automatically."
+   },
+   {
+    "type": "item",
+    "text": "Fixed sentence audio not downloading in Listening after a fresh install."
+   },
+   {
+    "type": "item",
+    "text": "Fixed the keyboard covering the input when entering your name or creating a playlist or list."
+   }
+  ]
+ },
+ {
+  "version": "1.0.44",
+  "date": "2026-10-06",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "새로운 기능"
+   },
+   {
+    "type": "item",
+    "text": "나만의 단어장: 원하는 단어를 ＋로 담아 나만의 단어장을 만들 수 있습니다. 로그인하면 다른 기기에서도 그대로 이어집니다. (프리미엄)"
+   },
+   {
+    "type": "item",
+    "text": "단어장 검색: 학습한 단어를 단어·뜻·주제로 한 번에 찾을 수 있습니다."
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "단어장이 최근 학습한 Day부터 한 번에 스크롤되는 목록으로 바뀌어 한 화면에 더 많은 단어를 볼 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "전체·첫걸음·JLPT·품사 태그와 필터로 원하는 단어만 골라 볼 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "지금 보는 Day가 위에 고정되고, 이전·다음 Day와 맨 위·맨 아래로 바로 이동할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "떠올려 쓰기가 기다리는 Day는 학습 선택 창에서도 연필로 알려 줍니다."
+   },
+   {
+    "type": "item",
+    "text": "품사별 코스로 학습한 단어가 단어장에 표시되지 않던 문제를 고쳤습니다."
+   },
+   {
+    "type": "item",
+    "text": "프리미엄 요금제를 한눈에 비교할 수 있도록 정리했습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New"
+   },
+   {
+    "type": "item",
+    "text": "My Lists: save words with ＋, synced when signed in. (Premium)"
+   },
+   {
+    "type": "item",
+    "text": "Search studied words by word, meaning, or topic."
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "The wordbook is one scrolling list, newest Day first."
+   },
+   {
+    "type": "item",
+    "text": "Tags and filters show just the words you want."
+   },
+   {
+    "type": "item",
+    "text": "The current Day stays pinned, with quick jumps between Days."
+   },
+   {
+    "type": "item",
+    "text": "A pencil now marks Days with Retrieval Practice waiting."
+   },
+   {
+    "type": "item",
+    "text": "Fixed Parts of Speech words missing from the wordbook."
+   },
+   {
+    "type": "item",
+    "text": "Premium plans are now easy to compare at a glance."
+   }
+  ]
+ },
+ {
+  "version": "1.0.43",
+  "date": "2026-10-02",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "학습 결과 화면에서 [다시 도전]·[다시 학습]을 누르면 바로 이동합니다."
+   },
+   {
+    "type": "item",
+    "text": "나의 기억 곡선이 이번 복습 전체 결과를 알려 주고, 가장 약했던 단어를 언제 다시 만나는지 짚어 줍니다."
+   },
+   {
+    "type": "item",
+    "text": "시간 안에 풀지 못한 단어를 결과 화면에서 따로 알려 줍니다."
+   },
+   {
+    "type": "item",
+    "text": "어색했던 예문 24개를 자연스럽게 다듬었습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Retry and Study Again on the results screen now take you there right away."
+   },
+   {
+    "type": "item",
+    "text": "Your memory curve now sums up the whole review and shows when you'll see your weakest words again."
+   },
+   {
+    "type": "item",
+    "text": "Words you ran out of time on are now shown separately on the results screen."
+   },
+   {
+    "type": "item",
+    "text": "Polished 24 awkward example sentences."
+   }
+  ]
+ },
+ {
+  "version": "1.0.42",
+  "date": "2026-09-28",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "새로운 기능"
+   },
+   {
+    "type": "item",
+    "text": "학습 결과 화면이 새로워졌습니다. 틀린 이유, 다시 만나는 복습 일정, 기억 곡선, 오늘의 한자와 예문 속 문법까지 한 번에 확인하세요."
+   },
+   {
+    "type": "item",
+    "text": "JLPT 한자: 급수별 한자의 훈음, 음독·훈독, 한국 한자음으로 읽는 법과 예시 단어를 볼 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "하단 메뉴를 내정보·학습·도전으로 묶어 더 찾기 쉽게 정리했습니다."
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "단어 카드를 더 크게 키우고, 단어와 예문이 화면을 반씩 나눠 쓰도록 정리했습니다."
+   },
+   {
+    "type": "item",
+    "text": "작은 화면에서 글자가 겹치거나 버튼이 가려지던 문제를 고쳤습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New"
+   },
+   {
+    "type": "item",
+    "text": "Redesigned results screen: why you missed a word, your review schedule, memory curve, and today's kanji and grammar."
+   },
+   {
+    "type": "item",
+    "text": "JLPT Kanji: browse kanji by level with meanings, on/kun readings and example words."
+   },
+   {
+    "type": "item",
+    "text": "Bottom menu regrouped into My Info, Learn and Challenge."
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Word cards are now larger, with the word and its example sentence each taking half of the card."
+   },
+   {
+    "type": "item",
+    "text": "Fixed overlapping text and hidden buttons on small screens."
+   }
+  ]
+ },
+ {
+  "version": "1.0.41",
+  "date": "2026-09-24",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "틀린 뜻으로 쓰였거나 표제어가 들어 있지 않던 예문을 바로잡았습니다."
+   },
+   {
+    "type": "item",
+    "text": "바뀐 단어와 예문의 음성을 새로 녹음했습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Fixed example sentences that used the wrong meaning or were missing the headword."
+   },
+   {
+    "type": "item",
+    "text": "Re-recorded audio for the updated words and examples."
+   }
+  ]
+ },
+ {
+  "version": "1.0.40",
+  "date": "2026-09-24",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "단어 뜻의 정확도를 크게 높였습니다. N2·N1을 중심으로 740여 개 단어의 한국어·영어 뜻과 예문 번역을 바로잡았습니다."
+   },
+   {
+    "type": "item",
+    "text": "표기가 어색하던 단어를 표준 표현으로 바꾸고, 예문과 심화학습 내용도 함께 새로 정리했습니다."
+   },
+   {
+    "type": "item",
+    "text": "일부 단어의 읽기(후리가나) 오류를 수정했습니다."
+   },
+   {
+    "type": "item",
+    "text": "품사별 코스의 형용사 단어가 늘었습니다. 분류되지 않았던 형용사 100여 개를 い형용사·な형용사 코스에 추가했습니다."
+   },
+   {
+    "type": "item",
+    "text": "오답노트에 항상 최신 뜻이 표시됩니다."
+   },
+   {
+    "type": "heading",
+    "text": "버그 수정"
+   },
+   {
+    "type": "item",
+    "text": "품사별 코스의 마지막 Day에서 빈 학습 카드가 나오던 문제를 수정했습니다. 단어가 5개 이하인 Day는 1단계만으로 완료됩니다."
+   },
+   {
+    "type": "item",
+    "text": "문제 수가 부족하던 접미사·감탄사 코스를 정리했습니다. 해당 단어는 JLPT 코스에서 계속 학습할 수 있습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "More accurate meanings: 740+ words (mainly N2/N1) and example translations corrected."
+   },
+   {
+    "type": "item",
+    "text": "Non-standard words replaced with standard forms, with updated examples and deep-study notes."
+   },
+   {
+    "type": "item",
+    "text": "Fixed reading (furigana) errors."
+   },
+   {
+    "type": "item",
+    "text": "100+ adjectives added to the i-/na-adjective courses."
+   },
+   {
+    "type": "item",
+    "text": "Wrong-answer notes always show the latest meaning."
+   },
+   {
+    "type": "heading",
+    "text": "Bug Fixes"
+   },
+   {
+    "type": "item",
+    "text": "Parts-of-speech courses: no more empty cards on the last Day."
+   },
+   {
+    "type": "item",
+    "text": "Retired the too-short Suffix and Interjection courses."
+   }
+  ]
+ },
+ {
+  "version": "1.0.39",
+  "date": "2026-09-21",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "신규 기능"
+   },
+   {
+    "type": "item",
+    "text": "무한 OX 퀴즈가 추가되었습니다. 배운 단어가 급수를 넘나들며 출제되고, 30초로 시작해 정답마다 시간이 늘어납니다. 연속으로 맞히면 콤보가 쌓이고, 기록은 랭킹에 올라갑니다."
+   },
+   {
+    "type": "item",
+    "text": "실드 아이템이 추가되었습니다. 사용하면 실패 없이 다음 문제로 넘어갑니다."
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "타이머 부스터가 '30초 추가'에서 '타이머를 가득 채우기'로 바뀌었습니다."
+   },
+   {
+    "type": "item",
+    "text": "아이템 보유 수량을 화면 상단에서 바로 확인할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "랭킹에서 내 순위가 항상 보이고, 같은 점수는 같은 등수로 표시됩니다."
+   },
+   {
+    "type": "item",
+    "text": "예문에서 오늘 배우는 단어에만 색이 칠해지도록 정확도를 높였습니다."
+   },
+   {
+    "type": "item",
+    "text": "복습 문제의 보기가 지나치게 길게 묶이던 현상을 개선했습니다."
+   },
+   {
+    "type": "item",
+    "text": "앱을 다시 설치해도 처음 안내가 반복되지 않습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New Features"
+   },
+   {
+    "type": "item",
+    "text": "Endless OX Quiz: studied words across all levels. Start at 30s, gain time per correct answer, build combos, climb the ranking."
+   },
+   {
+    "type": "item",
+    "text": "Shield item: skip a question without failing."
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Timer Booster now refills the gauge."
+   },
+   {
+    "type": "item",
+    "text": "Item counts show at the top of the screen."
+   },
+   {
+    "type": "item",
+    "text": "Your rank is always visible; tied scores share a rank."
+   },
+   {
+    "type": "item",
+    "text": "Only the target word is highlighted in examples."
+   },
+   {
+    "type": "item",
+    "text": "Review choices are no longer grouped into long blocks."
+   },
+   {
+    "type": "item",
+    "text": "Reinstalling no longer repeats the intro."
+   }
+  ]
+ },
+ {
+  "version": "1.0.38",
+  "date": "2026-09-14",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "신규 기능"
+   },
+   {
+    "type": "item",
+    "text": "앱을 처음 시작할 때 학습 방법을 안내하는 인트로가 추가되었습니다."
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "메인 스크린의 메뉴 UI가 축소되어 더 넓게 화면을 사용할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "일부 디바이스에서 후리가나가 잘려 보이는 현상이 수정되었습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New Features"
+   },
+   {
+    "type": "item",
+    "text": "An introductory guide explaining how to learn has been added for the first launch of the app."
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "The menu UI on the main screen has been minimized to provide more screen space."
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where furigana was cut off on some devices."
+   }
+  ]
+ },
+ {
+  "version": "1.0.37",
+  "date": "2026-09-09",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "도쿄 타워에서 오늘, 어제, 3, 7, 14일 전 배운 단어를 제출합니다. 오늘 배운 단어가 확실한 기억으로 새겨집니다."
+   },
+   {
+    "type": "item",
+    "text": "별표 빈칸 선택과 문장 완성하기 문제의 형식이 연결된 구문으로 변경됩니다. 4개의 연결된 구문을 완성하세요."
+   },
+   {
+    "type": "item",
+    "text": "학습 카드의 영문 단어에 후리가나가 표시됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Submit words learned today, yesterday, 3, 7, and 14 days ago at Tokyo Tower. Words learned today are imprinted in your memory."
+   },
+   {
+    "type": "item",
+    "text": "The format of the star fill-in-the-blank and sentence completion questions has been changed to connected phrases. Complete four connected phrases."
+   },
+   {
+    "type": "item",
+    "text": "Furigana is displayed on English words on the study cards."
+   }
+  ]
+ },
+ {
+  "version": "1.0.36",
+  "date": "2026-09-03",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "신규 기능"
+   },
+   {
+    "type": "item",
+    "text": "음성인식 미니게임 도쿄 타워가 업데이트됩니다."
+   },
+   {
+    "type": "item",
+    "text": "음성으로 단어를 제거하여 위기에 빠진 도쿄 타워를 지키세요."
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "복습이 5개 단어로 나뉘어 부담없는 분량으로 제공됩니다."
+   },
+   {
+    "type": "item",
+    "text": "복습문제를 풀기 전에 학습카드가 다시 등장합니다."
+   },
+   {
+    "type": "item",
+    "text": "뇌에서 꺼져가는 기억의 불씨를 강하게 밝혀보세요."
+   },
+   {
+    "type": "item",
+    "text": "청해 > 청해 플레이리스트에 모두담기 기능이 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "나에게 필요한 주제를 검색해 나만의 플레이리스트를 간편하게 만드세요."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New Features"
+   },
+   {
+    "type": "item",
+    "text": "New voice recognition mini-game: Tokyo Tower."
+   },
+   {
+    "type": "item",
+    "text": "Defend Tokyo Tower by clearing falling words with your voice."
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Reviews are now split into 5-word sets for a manageable load."
+   },
+   {
+    "type": "item",
+    "text": "Study cards reappear before you start the review questions."
+   },
+   {
+    "type": "item",
+    "text": "Rekindle the fading embers of memory in your brain."
+   },
+   {
+    "type": "item",
+    "text": "\"Add All\" has been added to Listening > Listening Playlist."
+   },
+   {
+    "type": "item",
+    "text": "Search the topics you need and build your own playlist easily."
+   }
+  ]
+ },
+ {
+  "version": "1.0.35",
+  "date": "2026-08-21",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "심화학습의 일부 표기 오류가 수정되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "메인 화면 스크롤 시 레이블이 잘못 표시되던 문제가 수정되었습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Fixed some display errors in Deep Study."
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where labels were displayed incorrectly while scrolling the main screen."
+   }
+  ]
+ },
+ {
+  "version": "1.0.34",
+  "date": "2026-08-20",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "배치고사가 더욱 변별력 있는 문제로 변경되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "음성 파일 다운로드 프로세스가 개선되어 대기시간이 사라집니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "The placement test has been modified to include more challenging questions."
+   },
+   {
+    "type": "item",
+    "text": "The audio file download process has been improved, eliminating waiting times."
+   }
+  ]
+ },
+ {
+  "version": "1.0.33",
+  "date": "2026-08-18",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "떠올려 쓰기를 즉시 완료해도 30분 알림이 발송되도록 수정됩니다."
+   },
+   {
+    "type": "item",
+    "text": "학습 후 첫 30분은 50% 기억이 사라지는 시간이므로 기능을 강화합니다."
+   },
+   {
+    "type": "item",
+    "text": "설정 메뉴에서 30분 알림 받기를 변경할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "하루 빼먹어도 다시 알려드려요. 여러분의 일본어 공부 확실히 챙겨드릴게요."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Modified so that a 30-minute reminder is sent even if the recall writing is completed immediately."
+   },
+   {
+    "type": "item",
+    "text": "Enhanced functionality, as 50% of memory is lost during the first 30 minutes after studying."
+   },
+   {
+    "type": "item",
+    "text": "You can change the 30-minute reminder setting in the Settings menu."
+   },
+   {
+    "type": "item",
+    "text": "We will remind you again even if you miss a day. We will make sure to take good care of your Japanese studies."
+   }
+  ]
+ },
+ {
+  "version": "1.0.32",
+  "date": "2026-08-17",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "복습이 2단계로 나누어지며 학습 1단계에는 인식형(듣고·보고 고르기), 2단계에는 산출형(맞추기·채우기·배열) 문제가 출제됩니다."
+   },
+   {
+    "type": "item",
+    "text": "따라서, 한 번에 푸는 복습이 약 70문제에서 40~32문제로 감소됩니다."
+   },
+   {
+    "type": "item",
+    "text": "일부 단어의 후리가나 오쿠리가나 경계 교정 및 깨진 문자가 수정됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Review is divided into two stages. Stage 1 features recognition-type questions (listening and seeing to select), while Stage 2 features production-type questions (matching, filling in, and arrangement)."
+   },
+   {
+    "type": "item",
+    "text": "Consequently, the number of review questions to be solved at once is reduced from approximately 70 to 40–32."
+   },
+   {
+    "type": "item",
+    "text": "The boundaries of furigana and okurigana for some words are corrected, and broken characters are fixed."
+   }
+  ]
+ },
+ {
+  "version": "1.0.31",
+  "date": "2026-08-15",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "단어와 예문의 음성이 다양한 목소리로 변경됩니다."
+   },
+   {
+    "type": "item",
+    "text": "모든 사용자가 v1.0.31 버전으로 업데이트하면 새로운 음성이 반영됩니다."
+   },
+   {
+    "type": "item",
+    "text": "학습 시작 전에 음성 파일 다운로드가 진행됩니다."
+   },
+   {
+    "type": "item",
+    "text": "백그라운드 다운로드 중에 랙이 발생하던 현상이 수정됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "The audio for words and example sentences will be changed to various voices."
+   },
+   {
+    "type": "item",
+    "text": "The new audio will be applied once all users update to version v1.0.31."
+   },
+   {
+    "type": "item",
+    "text": "Audio files will now be downloaded before the learning session begins."
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where lag occurred during background downloads."
+   }
+  ]
+ },
+ {
+  "version": "1.0.30",
+  "date": "2026-08-12",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "심화학습에서 일부 텍스트가 보이지 않았던 문제를 수정했습니다."
+   },
+   {
+    "type": "item",
+    "text": "청해 플레이리스트의 문장 사이 간격을 추가해 듣기 편의성을 개선했습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where some text was not visible in Advanced Learning."
+   },
+   {
+    "type": "item",
+    "text": "Improved listening convenience by adding spacing between sentences in the Listening Comprehension playlist."
+   }
+  ]
+ },
+ {
+  "version": "1.0.29",
+  "date": "2026-08-05",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "신규 기능"
+   },
+   {
+    "type": "item",
+    "text": "30분 후 복습이 추가됩니다. 망각이 시작되는 30분부터 기억을 붙잡아 봅시다. 알림을 꼭 허용해주세요."
+   },
+   {
+    "type": "item",
+    "text": "30분 후 복습의 유형은 “떠올려 쓰기”입니다. 선택하기(재인)보다 기억을 꺼내 쓰는 연습(인출)이 기억을 더 강화한다는 연구결과가 있어요."
+   },
+   {
+    "type": "heading",
+    "text": "개선 사항"
+   },
+   {
+    "type": "item",
+    "text": "청해 플레이리스트의 내 리스트가 배지로 이동하고 전체 페이지가 스크롤됩니다."
+   },
+   {
+    "type": "item",
+    "text": "중간 사이즈의 화면에서 긴 단어가 단어장 및 단어 카드에서 넘치던 현상이 수정됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "New Features"
+   },
+   {
+    "type": "item",
+    "text": "A \"Review After 30 Minutes\" feature has been added. Let's hold onto our memories starting from the 30-minute mark, when forgetting begins. Please make sure to allow notifications."
+   },
+   {
+    "type": "item",
+    "text": "The type of review after 30 minutes is \"Recall and Write.\" Research shows that practicing retrieving and writing down memories (retrieval) strengthens memory more than selecting (recognition)."
+   },
+   {
+    "type": "heading",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "My List in the Listening Comprehension Playlist has been moved to the Badges section, and the entire page now scrolls."
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where long words overflowed in the vocabulary list and word cards on medium-sized screens."
+   }
+  ]
+ },
+ {
+  "version": "1.0.28",
+  "date": "2026-07-29",
+  "ko": [
+   {
+    "type": "item",
+    "text": "단어 심화학습 추가 - 단어의 사용법, 접속형태, 활용형, 예문, 유의어, 보충설명 등 단어를 더욱 심도있게 학습합니다."
+   },
+   {
+    "type": "item",
+    "text": "청해 플레이 리스트 - 학습한 문장을 여러 Day로 묶어 플레이 리스트를 만들고 반복해 들을 수 있습니다. 백그라운드 재생. 잠금화면 문장 표시. 오늘 배운 예문이 통째로 암기되는 플레이리스트로 이동하세요."
+   },
+   {
+    "type": "item",
+    "text": "작은 화면 해상도 최적화 - 이제 작은 화면에서도 하루10단어를 제대로 이용해보세요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Deep study Added - Learn words in greater depth, including usage, conjunctions, conjugations, example sentences, synonyms, and supplementary explanations."
+   },
+   {
+    "type": "item",
+    "text": "Listening Playlist - Create playlists by grouping learned sentences by Day and listen to them repeatedly. Background playback. Display sentences on lock screen. Go to the playlist where you can memorize the example sentences learned today in their entirety."
+   },
+   {
+    "type": "item",
+    "text": "Optimized for Small Screen Resolutions - Now you can fully utilize 10 Words a Day even on small screens."
+   }
+  ]
+ },
+ {
+  "version": "1.0.27",
+  "date": "2026-07-22",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "문법 라이브러리가 추가되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "JLPT 급수별 필수 문법 제공"
+   },
+   {
+    "type": "item",
+    "text": "더보기 > 문법 라이브러리 메뉴를 통해 접근"
+   },
+   {
+    "type": "item",
+    "text": "프리미엄 혜택으로 이용 가능"
+   },
+   {
+    "type": "item",
+    "text": "1단계 학습 완료 후 2단계 학습이 바로 오픈되도록 수정되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "단어장과 오답노트에서 터치하면 학습 카드가 오픈되도록 수정되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "더 자주 쉽게 효과적인 학습을 이어가세요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "A Grammar Library has been added."
+   },
+   {
+    "type": "item",
+    "text": "Provides essential grammar for each JLPT level"
+   },
+   {
+    "type": "item",
+    "text": "Accessible via the More > Grammar Library menu"
+   },
+   {
+    "type": "item",
+    "text": "Available as a Premium benefit"
+   },
+   {
+    "type": "item",
+    "text": "Modified so that Level 2 learning opens immediately after completing Level 1."
+   },
+   {
+    "type": "item",
+    "text": "Modified so that touching the Vocabulary List and Incorrect Answer Note opens the learning card."
+   },
+   {
+    "type": "item",
+    "text": "Continue effective learning more frequently and easily."
+   }
+  ]
+ },
+ {
+  "version": "1.0.26",
+  "date": "2026-07-17",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "v1.0.26 핫픽스"
+   },
+   {
+    "type": "item",
+    "text": "일부 스크린에서 긴 예문의 학습과 테스트 진행이 어려웠던 문제가 수정되었습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "v1.0.26 Hotfix"
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where learning and testing with long example sentences was difficult on some screens."
+   }
+  ]
+ },
+ {
+  "version": "1.0.25",
+  "date": "2026-07-15",
+  "ko": [
+   {
+    "type": "item",
+    "text": "복습이 강화되어 14일 복습이 추가되고 무제한 복습이 제공됩니다."
+   },
+   {
+    "type": "item",
+    "text": "복습 문제에 한자 읽기, 독해의 문제 유형이 추가되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "테스트의 2단계 문제 유형이 의미 완성하기로 변경됩니다."
+   },
+   {
+    "type": "item",
+    "text": "하루 10단어의 학습 방법을 5단어씩 2회로 변경해 인지부하를 줄였습니다."
+   },
+   {
+    "type": "item",
+    "text": "히라가나/가타카나 학습에는 에너지가 소모되지 않습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Review has been enhanced with the addition of 14 days of review and the provision of unlimited review."
+   },
+   {
+    "type": "item",
+    "text": "Question types for Hanja reading and reading comprehension have been added to the review questions."
+   },
+   {
+    "type": "item",
+    "text": "The question type for Step 2 of the test has been changed to \"Meaning Completion.\""
+   },
+   {
+    "type": "item",
+    "text": "The learning method has been changed from 10 words per day to 5 words twice to reduce cognitive load."
+   },
+   {
+    "type": "item",
+    "text": "Learning Hiragana/Katakana does not consume energy."
+   }
+  ]
+ },
+ {
+  "version": "1.0.24",
+  "date": "2026-07-09",
+  "ko": [
+   {
+    "type": "item",
+    "text": "단어와 예문 음원 재생이 지연되는 현상이 수정됩니다."
+   },
+   {
+    "type": "item",
+    "text": "앱 실행 후 최초 1회 데이터 동기화가 진행됩니다."
+   },
+   {
+    "type": "item",
+    "text": "설문조사 참여이벤트가 진행중입니다. 많은 의견 부탁드려요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Fixed an issue where audio playback for words and example sentences was delayed."
+   },
+   {
+    "type": "item",
+    "text": "Data synchronization will be performed once for the first time after launching the app."
+   },
+   {
+    "type": "item",
+    "text": "A survey participation event is currently underway. We would appreciate your feedback."
+   }
+  ]
+ },
+ {
+  "version": "1.0.23",
+  "date": "2026-07-08",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "버그수정"
+   },
+   {
+    "type": "item",
+    "text": "일부 음성의 독음이 루비와 달랐던 현상이 수정되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "설문조사 참여이벤트가 진행중입니다. 많은 의견 부탁드려요."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Bug Fixes"
+   },
+   {
+    "type": "item",
+    "text": "Fixed an issue where the pronunciation of some voices differed from Ruby."
+   },
+   {
+    "type": "item",
+    "text": "A survey participation event is currently underway. We look forward to your feedback."
+   }
+  ]
+ },
+ {
+  "version": "1.0.22",
+  "date": "2026-07-07",
+  "ko": [
+   {
+    "type": "item",
+    "text": "알림 메시지에 다음 학습 주제가 표시됩니다."
+   },
+   {
+    "type": "item",
+    "text": "설문조사 이벤트에 참여하시면 200젬을 드립니다."
+   },
+   {
+    "type": "item",
+    "text": "여러분의 일본어 실력 향상이 저희의 최고 목표입니다."
+   },
+   {
+    "type": "item",
+    "text": "많은 의견 부탁 드려요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "The next learning topic will be displayed in the notification message."
+   },
+   {
+    "type": "item",
+    "text": "You will receive 200 Gems if you participate in the survey event."
+   },
+   {
+    "type": "item",
+    "text": "Improving your Japanese skills is our top priority."
+   },
+   {
+    "type": "item",
+    "text": "We look forward to your feedback."
+   }
+  ]
+ },
+ {
+  "version": "1.0.21",
+  "date": "2026-06-26",
+  "ko": [
+   {
+    "type": "item",
+    "text": "UI 및 성능 개선"
+   },
+   {
+    "type": "item",
+    "text": "학습통계 UI의 가독성을 개선했습니다."
+   },
+   {
+    "type": "item",
+    "text": "버그를 수정하고 성능을 개선했습니다."
+   },
+   {
+    "type": "item",
+    "text": "불편한 문제가 있다면 언제든 개발자 메일로 알려주세요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "UI and Performance Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Improved readability of the learning statistics UI."
+   },
+   {
+    "type": "item",
+    "text": "Fixed bugs and improved performance."
+   },
+   {
+    "type": "item",
+    "text": "If you encounter any issues, please let us know via the developer email at any time."
+   }
+  ]
+ },
+ {
+  "version": "1.0.20",
+  "date": "2026-06-25",
+  "ko": [
+   {
+    "type": "item",
+    "text": "오답노트"
+   },
+   {
+    "type": "item",
+    "text": "단어장에 오답노트가 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "오답노트를 통해 자주 틀리는 단어의 집중적인 학습기회를 제공합니다."
+   },
+   {
+    "type": "item",
+    "text": "학습 통계"
+   },
+   {
+    "type": "item",
+    "text": "프로필 스크린에 학습 통계가 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "학습 통계에서 학습 기록과 성과를 확인할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "개선사항"
+   },
+   {
+    "type": "item",
+    "text": "6일전 단어 복습모드에 힌트가 추가됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Wrong Answer Notes"
+   },
+   {
+    "type": "item",
+    "text": "Wrong answer notes are added to the vocabulary list."
+   },
+   {
+    "type": "item",
+    "text": "The wrong answer note provides an opportunity for intensive study of frequently missed words."
+   },
+   {
+    "type": "item",
+    "text": "Learning Statistics"
+   },
+   {
+    "type": "item",
+    "text": "Learning statistics are added to the profile screen."
+   },
+   {
+    "type": "item",
+    "text": "You can check your learning history and performance in the learning statistics."
+   },
+   {
+    "type": "item",
+    "text": "Improvements"
+   },
+   {
+    "type": "item",
+    "text": "Hints are added to the review mode for words from 6 days ago."
+   }
+  ]
+ },
+ {
+  "version": "1.0.19",
+  "date": "2026-06-17",
+  "ko": [
+   {
+    "type": "item",
+    "text": "힌트 버튼을 한번 터치하면 상태가 유지됩니다. 처음에는 힌트를 보면서 풀고 다음에는 힌트를 끄고 소리와 문자의 의미에 집중하며 풀어보세요."
+   },
+   {
+    "type": "item",
+    "text": "푸시 알림 메시지가 언어 설정에 따라 현지화됩니다."
+   },
+   {
+    "type": "item",
+    "text": "프리미엄 구독 혜택으로 학습 직후 / 지정 시간 두 가지 알림 방식 선택이 지원됩니다. 자신에게 최적화된 학습 루틴을 만들어보세요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Touching the hint button once maintains the state. Try solving the problem while looking at the hint the first time, and then turn off the hint to focus on the meaning of the sounds and text."
+   },
+   {
+    "type": "item",
+    "text": "Push notification messages are localized according to your language settings."
+   },
+   {
+    "type": "item",
+    "text": "As a Premium subscription benefit, you can choose between two notification methods: immediately after studying or at a designated time. Create a study routine optimized for yourself."
+   }
+  ]
+ },
+ {
+  "version": "1.0.18",
+  "date": "2026-06-12",
+  "ko": [
+   {
+    "type": "item",
+    "text": "영문 현지화가 정상적으로 적용되도록 수정했습니다."
+   },
+   {
+    "type": "item",
+    "text": "히라가나, 가타카나에서 자주 혼동되는 문자를 학습할 수 있도록 레벨을 추가했습니다."
+   },
+   {
+    "type": "item",
+    "text": "히라가나: め(메), ぬ(누), れ(레), ね(네), わ(와)"
+   },
+   {
+    "type": "item",
+    "text": "가타카나: シ(시), ツ(츠), ソ(소), ン(응), ク(쿠), タ(타), ウ(우), ワ(와), コ(코), ユ(유)"
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Fixed issues to ensure English localization is applied correctly."
+   },
+   {
+    "type": "item",
+    "text": "Added levels to help learn frequently confused characters in Hiragana and Katakana."
+   },
+   {
+    "type": "item",
+    "text": "Hiragana: め (Me), ぬ (Nu), れ (Re), ね (Ne), わ (Wa)"
+   },
+   {
+    "type": "item",
+    "text": "Katakana: シ (Si), ツ (Tsu), ソ (So), ン (Ung), ク (Ku), タ (Ta), ウ (U), ワ (Wa), コ (Ko), ユ (Yu)"
+   }
+  ]
+ },
+ {
+  "version": "1.0.17",
+  "date": "2026-06-11",
+  "ko": [
+   {
+    "type": "item",
+    "text": "음성안내 (TTS)가 개선되어 원어민 발음으로 학습할 수 있습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "The Text-to-Speech (TTS) has been improved, allowing you to learn with native pronunciation."
+   }
+  ]
+ },
+ {
+  "version": "1.0.16",
+  "date": "2026-06-09",
+  "ko": [
+   {
+    "type": "item",
+    "text": "히라가나, 가타카나 첫걸음 코스 추가: 일본어 학습이 처음인 사용자도 가나 문자를 학습하고 문제를 통해 기억을 강화할 수 있어요. 학습 완료한 단어는 단어장에서 모아볼 수도 있답니다."
+   },
+   {
+    "type": "item",
+    "text": "업적 추가: 히라가나, 카타카나 코스 정복자 업적이 추가되었어요. 보상은 50젬입니다!"
+   },
+   {
+    "type": "item",
+    "text": "UX 개선: 6일전 복습 문장 완성하기 문제의 빈칸이 2개로 고정됩니다. 빈칸 4개는 너무 어렵더라구요 ㅠㅠ 개선사항이 있다면 언제든 피드백주세요. 가장 효과좋은 일본어 앱이 되기 위해 최선을 다하겠습니다."
+   },
+   {
+    "type": "item",
+    "text": "버그수정: 학습 단어 중 수사의 예문이 단어에 맞게 수정되었습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Added Hiragana & Katakana Beginner Courses: Even users new to Japanese can learn Kana characters and reinforce their memory through exercises. You can also collect completed words in the Wordbook."
+   },
+   {
+    "type": "item",
+    "text": "Added Achievements: The \"Level Conqueror\" achievement for the Hiragana & Katakana Courses has been added. The reward is 50 Gems!"
+   },
+   {
+    "type": "item",
+    "text": "UX Improvements: The number of blanks in the \"Complete Sentences\" questions from the 6-day review section will be fixed at 2. Four blanks were just too difficult. Please feel free to provide feedback if you have any suggestions for improvement. We will do our best to become the most effective Japanese app."
+   },
+   {
+    "type": "item",
+    "text": "Bug Fixes: Example sentences for numerals in the learning vocabulary have been corrected to better fit the words."
+   }
+  ]
+ },
+ {
+  "version": "1.0.15",
+  "date": "2026-06-04",
+  "ko": [
+   {
+    "type": "item",
+    "text": "단어의 예문이 일상생활에서 활용 가능한 대화로 변경되었습니다. 매일 문장을 따라하면 더 나은 학습 효과를 얻을 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "학습의 인지부하를 줄이기 위해 5개 단어씩 나누어 학습하며 기억 강화 단계를 거쳐 학습 효과를 증폭합니다."
+   },
+   {
+    "type": "item",
+    "text": "기억 강화 학습에는 단어 듣고 맞추기, 매칭하기가 제공되며 테스트 문제에는 OX퀴즈에 문장 듣고 맞추기가 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "복습 문제는 총 60문제로 늘어나며 의미 보고 맞추기, 매칭하기, 단어 듣고 맞추기, 별표 빈칸 채우기, 문장 듣고 맞추기, 문장 만들기 문제가 제공됩니다. 바로 학습하기를 제공하므로 원하는 경우 오늘의 단어만 학습할 수도 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "초기 지급 에너지는 10개로 변경되며 매일 1개씩 추가 충전됩니다. 기존 유저도 2026/06/30 23:59:59 (UTC+9)까지 접속하면 10개를 받을 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "“연속 학습 달성 10달 업적(보상 350 XP)”과 “XP 콜렉터 100K 업적(보상 10,000 XP)”이 추가되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "데이터 버그가 수정되어 단어와 예문의 독음이 간헐적으로 달랐던 문제가 수정됩니다."
+   },
+   {
+    "type": "item",
+    "text": "“일본어 학습에 가장 효과좋은 앱”이 될 수 있도록 최선을 다하겠습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "The example sentences for the words have been changed to conversations applicable to everyday life. You can achieve better learning results by following the sentences every day."
+   },
+   {
+    "type": "item",
+    "text": "To reduce the cognitive load of learning, lessons are divided into groups of 5 words, and the learning effect is amplified through a memory reinforcement stage."
+   },
+   {
+    "type": "item",
+    "text": "Memory reinforcement learning includes listening to words and matching, while test questions now include listening to sentences and matching in addition to the True/False quiz."
+   },
+   {
+    "type": "item",
+    "text": "The review section has been expanded to a total of 60 questions, offering questions such as matching based on meaning, matching, listening to words and matching, filling in blanks with stars, listening to sentences and matching, and sentence construction. Since \"Immediate Learning\" is available, you can choose to study only today's words if you wish."
+   },
+   {
+    "type": "item",
+    "text": "The initial energy provided has been changed to 10, with 1 additional energy replenished daily. Existing users can also receive 10 energy by logging in by 2026/06/30 23:59:59 (UTC+9)."
+   },
+   {
+    "type": "item",
+    "text": "The “10 Months of Continuous Learning Achievement (Reward: 350 XP)” and “XP Collector 100K Achievement (Reward: 10,000 XP)” have been added."
+   },
+   {
+    "type": "item",
+    "text": "A data bug has been fixed, resolving the issue where the pronunciation of words and example sentences intermittently differed."
+   },
+   {
+    "type": "item",
+    "text": "We will do our best to become “the most effective app for learning Japanese.”"
+   }
+  ]
+ },
+ {
+  "version": "1.0.14",
+  "date": "2026-05-26",
+  "ko": [
+   {
+    "type": "item",
+    "text": "처음 시작할 때 배치고사에 응시하여 자신에게 맞는 난이도를 선택할 수 있습니다. 배치고사는 프로필에서 다시 응시할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "단어장이 추가됩니다. 학습을 완료한 날짜의 단어와 예문을 다시 볼 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "테스트 중 OX 버튼을 연타하면 다음으로 바로 넘어가던 버그가 수정되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "단어 학습 및 테스트에 대한 안내 툴팁이 추가되었습니다. 이용에 참고해보세요."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "When you first start, you can take a placement test to select the difficulty level that suits you. You can retake the placement test from your profile."
+   },
+   {
+    "type": "item",
+    "text": "A vocabulary list has been added. You can review the words and example sentences from the date you completed your study."
+   },
+   {
+    "type": "item",
+    "text": "Fixed a bug where repeatedly pressing the OX button during a test would immediately advance to the next step."
+   },
+   {
+    "type": "item",
+    "text": "Guide tooltips for vocabulary learning and tests have been added. Please refer to them for your use."
+   }
+  ]
+ },
+ {
+  "version": "1.0.13",
+  "date": "2026-05-23",
+  "ko": [
+   {
+    "type": "item",
+    "text": "TTS의 kanji 음독이 간헐적으로 일치하지 않은 문제가 수정되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "테스트를 10콤보로 통과하면 XP 보상이 2배로 지급됩니다. 콤보 달성으로 더 풍성한 XP 보상을 노려보세요."
+   },
+   {
+    "type": "item",
+    "text": "테스트 모드에 타이머가 추가됩니다. 단어 학습을 충분히 숙지하고 테스트 모드에 진입하세요."
+   },
+   {
+    "type": "item",
+    "text": "아이템 상점에 타이머 부스터가 추가됩니다. 타이머 부스터 하나를 사용할 때마다 테스트 모드의 제한시간에 30초가 추가됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Fixed an issue where the TTS's Kanji pronunciation was intermittently inconsistent."
+   },
+   {
+    "type": "item",
+    "text": "Double XP rewards are given if you pass the test with a 10-combo. Aim for more generous XP rewards by achieving combos."
+   },
+   {
+    "type": "item",
+    "text": "A timer has been added to Test Mode. Please ensure you have fully mastered the vocabulary before entering Test Mode."
+   },
+   {
+    "type": "item",
+    "text": "Timer Boosters have been added to the Item Shop. Each time a Timer Booster is used, 30 seconds are added to the time limit in Test Mode."
+   }
+  ]
+ },
+ {
+  "version": "1.0.12",
+  "date": "2026-05-20",
+  "ko": [
+   {
+    "type": "item",
+    "text": "단어가 주제별로 배치되어 더욱 체계적으로 학습할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "다양한 BGM이 추가되었습니다. 마음에 드는 음악을 선택하고 학습하는 동안 좋은 기분을 유지하세요."
+   },
+   {
+    "type": "item",
+    "text": "학습에 집중할 수 있도록 UX를 향상시키고 버그를 수정했습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Words are arranged by topic, allowing for more systematic learning."
+   },
+   {
+    "type": "item",
+    "text": "Various background music has been added. Choose your favorite music and stay in a good mood while studying."
+   },
+   {
+    "type": "item",
+    "text": "UX has been improved and bugs fixed to help you focus on your studies."
+   }
+  ]
+ },
+ {
+  "version": "1.0.11",
+  "date": "2026-05-15",
+  "ko": [
+   {
+    "type": "item",
+    "text": "한번 구매하고 평생 프리미엄 이용이 가능한 [라이프타임 프리미엄] 상품이 추가됩니다. 프리미엄 페이지에서 만나보세요."
+   },
+   {
+    "type": "item",
+    "text": "스티치 보더와 고양이 발바닥 배경의 귀여운 테마가 적용되었습니다. 더 기분좋게 일본어 공부해보아요."
+   },
+   {
+    "type": "item",
+    "text": "버그 수정: 간헐적으로 로딩이 오래 걸리는 문제를 수정했습니다. 더 쾌적하게 일본어 공부해보아요."
+   },
+   {
+    "type": "item",
+    "text": "JLPT 합격하는 그날까지 화이팅!"
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "A [Lifetime Premium] product has been added, allowing you to purchase it once and enjoy premium access for life. Check it out on the Premium page."
+   },
+   {
+    "type": "item",
+    "text": "A cute theme featuring Stitch Border and cat paw print backgrounds has been applied. Let's make studying Japanese even more enjoyable."
+   },
+   {
+    "type": "item",
+    "text": "Bug fix: Fixed an issue where loading times were intermittently long. Let's study Japanese more comfortably."
+   },
+   {
+    "type": "item",
+    "text": "Good luck until the day you pass the JLPT!"
+   }
+  ]
+ },
+ {
+  "version": "1.0.10",
+  "date": "2026-04-23",
+  "ko": [
+   {
+    "type": "item",
+    "text": "상점에 젬 상자가 추가됩니다. 젬을 사용해 상점의 아이템을 구매할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "테스트에서도 TTS가 출력됩니다. 쉐도잉(Shadowing)으로 읽기, 듣기, 말하기를 동시에 훈련하세요."
+   },
+   {
+    "type": "item",
+    "text": "테스트 오답 확인 페이지에서 다음 버튼이 추가되어 빠르게 넘길 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "완료한 업적을 친구에게 공유할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "로그아웃 버튼 아래에 \"계정 삭제\" 버튼이 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "구매 복원 버튼 아래에 \"이용약관, 개인정보처리방침\" 링크가 추가됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Gem boxes have been added to the shop. You can purchase items in the shop using Gems."
+   },
+   {
+    "type": "item",
+    "text": "TTS is now available in tests. Train reading, listening, and speaking simultaneously through shadowing."
+   },
+   {
+    "type": "item",
+    "text": "A \"Next\" button has been added to the test incorrect answer check page, allowing you to skip ahead quickly."
+   },
+   {
+    "type": "item",
+    "text": "You can share completed achievements with friends."
+   },
+   {
+    "type": "item",
+    "text": "A \"Delete Account\" button will be added below the Logout button."
+   },
+   {
+    "type": "item",
+    "text": "A link to \"Terms of Use, Privacy Policy\" will be added below the Restore Purchase button."
+   }
+  ]
+ },
+ {
+  "version": "1.0.8",
+  "date": "2026-04-18",
+  "ko": [
+   {
+    "type": "item",
+    "text": "최적의 장기기억 유지를 위해 1일, 3일, 6일 후에 단어를 복습합니다."
+   },
+   {
+    "type": "item",
+    "text": "새로운 유형의 문제인 별표 채우기와 문장 완성하기가 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "프로필, 프리미엄, 상점, 업적, 설정 메뉴가 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "에너지가 추가됩니다. 24시간마다 3개의 에너지가 자동 충전됩니다."
+   },
+   {
+    "type": "item",
+    "text": "프리미엄 구독의 혜택이 추가됩니다. 무제한 에너지, 24시간 대기없이 즉시 다음레벨 해금, 개인에게 최적화된 알람 주기를 설정할 수 있습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "To maintain optimal long-term memory, words are reviewed after 1, 3, and 6 days."
+   },
+   {
+    "type": "item",
+    "text": "New question types, Star Fill and Sentence Completion, have been added."
+   },
+   {
+    "type": "item",
+    "text": "Profile, Premium, Shop, Achievements, and Settings menus have been added."
+   },
+   {
+    "type": "item",
+    "text": "Energy has been added. 3 units of energy are automatically recharged every 24 hours."
+   },
+   {
+    "type": "item",
+    "text": "Premium subscription benefits have been added. You can enjoy unlimited energy, unlock the next level instantly without a 24-hour wait, and set alarm cycles optimized for you."
+   }
+  ]
+ },
+ {
+  "version": "1.0.7",
+  "date": "2026-03-15",
+  "ko": [
+   {
+    "type": "item",
+    "text": "코스의 모든 레벨을 학습하면 클리어 카드가 표시됩니다. 이 자랑스러운 업적을 친구에게 공유해보세요."
+   },
+   {
+    "type": "item",
+    "text": "진행 상황의 현재 레벨은 가장 최근에 학습한 코스의 레벨이 표시됩니다."
+   },
+   {
+    "type": "item",
+    "text": "코스를 선택하면 다음 학습할 레벨을 자동으로 포커스하도록 편의성이 개선되었습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Course Clear Card is displayed when you complete all levels of a course. Share this proud achievement with your friends."
+   },
+   {
+    "type": "item",
+    "text": "The current level in Progress displays the level of the course you most recently completed."
+   },
+   {
+    "type": "item",
+    "text": "Convenience has been improved so that selecting a course automatically focuses on the next level to study."
+   }
+  ]
+ },
+ {
+  "version": "1.0.6",
+  "date": "2026-03-12",
+  "ko": [
+   {
+    "type": "item",
+    "text": "단어 암기력을 높이기 위해 학습 카드에 예문이 추가됩니다."
+   },
+   {
+    "type": "item",
+    "text": "프리미엄 모드에서 나에게 최적화된 학습 주기를 설정할 수 있습니다. 30분, 1시간, 3시간, 6시간, 12시간, 24시간 중 설정된 시간에 푸시알림으로 10단어가 배달됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Example sentences are added to study cards to enhance vocabulary memorization."
+   },
+   {
+    "type": "item",
+    "text": "In Premium Mode, you can set a study cycle that's optimized for you. 10 words will be delivered via push notification at the set time: 30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, or 24 hours."
+   }
+  ]
+ },
+ {
+  "version": "1.0.5",
+  "date": "2026-03-03",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "소셜 로그인 기능이 추가되었습니다."
+   },
+   {
+    "type": "item",
+    "text": "로그인하면 학습 진행 상태가 모든 기기에서 동기화됩니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Social login has been added."
+   },
+   {
+    "type": "item",
+    "text": "Logging in will sync your learning progress across all devices."
+   }
+  ]
+ },
+ {
+  "version": "1.0.4",
+  "date": "2026-03-01",
+  "ko": [
+   {
+    "type": "item",
+    "text": "학습 진행상황을 확인할 수 있는 카드가 추가되었으며, 이 카드를 친구와 공유할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "타이머를 클릭하고 진행상황을 공유하면 12시간을 기다리지 않아도 즉시 다음 레벨을 플레이할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "연속 출석 뱃지가 추가되어 열공할수록 큰 만족감을 얻을 수 있습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "A progress card has been added to track your learning progress, which you can share with friends."
+   },
+   {
+    "type": "item",
+    "text": "Click the timer and share your progress to instantly play the next level without having to wait 12 hours."
+   },
+   {
+    "type": "item",
+    "text": "Consecutive attendance badges have been added, giving you a greater sense of satisfaction the more you study."
+   }
+  ]
+ },
+ {
+  "version": "1.0.1",
+  "date": "2026-02-26",
+  "ko": [
+   {
+    "type": "item",
+    "text": "프리미엄 구독을 활성화하면 대기 시간 없이 즉시 다음 레벨 학습을 시작할 수 있습니다."
+   },
+   {
+    "type": "item",
+    "text": "구독한 후라도 하루에 10단어만 알림을 받고 싶으시다면 설정 > 구독상태를 5번 터치해 주세요."
+   },
+   {
+    "type": "item",
+    "text": "구독 결제를 진행했다면 언제든 구매복원을 눌러 프리미엄 상태로 돌아갈 수 있습니다."
+   }
+  ],
+  "en": [
+   {
+    "type": "item",
+    "text": "Activating your Premium subscription allows you to start learning the next level immediately, without waiting."
+   },
+   {
+    "type": "item",
+    "text": "If you still want to receive notifications for only 10 words per day, tap Settings > Subscription Status five times."
+   },
+   {
+    "type": "item",
+    "text": "If you've purchased a subscription, you can restore your Premium status at any time by tapping Restore Purchase."
+   }
+  ]
+ },
+ {
+  "version": "1.0",
+  "date": "2026-02-10",
+  "ko": [],
+  "en": []
+ }
+]

@@ -113,21 +113,18 @@ What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 ## v1.0.35 · 2026-08-21
 
 **Improvements**
-
 - Fixed some display errors in Deep Study.
 - Fixed an issue where labels were displayed incorrectly while scrolling the main screen.
 
 ## v1.0.34 · 2026-08-20
 
 **Improvements**
-
 - The placement test has been modified to include more challenging questions.
 - The audio file download process has been improved, eliminating waiting times.
 
 ## v1.0.33 · 2026-08-18
 
 **Improvements**
-
 - Modified so that a 30-minute reminder is sent even if the recall writing is completed immediately.
 - Enhanced functionality, as 50% of memory is lost during the first 30 minutes after studying.
 - You can change the 30-minute reminder setting in the Settings menu.
@@ -136,7 +133,6 @@ What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 ## v1.0.32 · 2026-08-17
 
 **Improvements**
-
 - Review is divided into two stages. Stage 1 features recognition-type questions (listening and seeing to select), while Stage 2 features production-type questions (matching, filling in, and arrangement).
 - Consequently, the number of review questions to be solved at once is reduced from approximately 70 to 40–32.
 - The boundaries of furigana and okurigana for some words are corrected, and broken characters are fixed.
@@ -144,7 +140,6 @@ What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 ## v1.0.31 · 2026-08-15
 
 **Improvements**
-
 - The audio for words and example sentences will be changed to various voices.
 - The new audio will be applied once all users update to version v1.0.31.
 - Audio files will now be downloaded before the learning session begins.
@@ -153,48 +148,38 @@ What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 ## v1.0.30 · 2026-08-12
 
 **Improvements**
-
 - Fixed an issue where some text was not visible in Advanced Learning.
 - Improved listening convenience by adding spacing between sentences in the Listening Comprehension playlist.
 
 ## v1.0.29 · 2026-08-05
 
 **New Features**
-
 - A "Review After 30 Minutes" feature has been added. Let's hold onto our memories starting from the 30-minute mark, when forgetting begins. Please make sure to allow notifications.
 - The type of review after 30 minutes is "Recall and Write." Research shows that practicing retrieving and writing down memories (retrieval) strengthens memory more than selecting (recognition).
 
 **Improvements**
-
 - My List in the Listening Comprehension Playlist has been moved to the Badges section, and the entire page now scrolls.
 - Fixed an issue where long words overflowed in the vocabulary list and word cards on medium-sized screens.
 
 ## v1.0.28 · 2026-07-29
 
 - Deep study Added - Learn words in greater depth, including usage, conjunctions, conjugations, example sentences, synonyms, and supplementary explanations.
-
 - Listening Playlist - Create playlists by grouping learned sentences by Day and listen to them repeatedly. Background playback. Display sentences on lock screen. Go to the playlist where you can memorize the example sentences learned today in their entirety.
-
 - Optimized for Small Screen Resolutions - Now you can fully utilize 10 Words a Day even on small screens.
 
 ## v1.0.27 · 2026-07-22
 
 - A Grammar Library has been added.
-
 - Provides essential grammar for each JLPT level
 - Accessible via the More > Grammar Library menu
 - Available as a Premium benefit
-
 - Modified so that Level 2 learning opens immediately after completing Level 1.
-
 - Modified so that touching the Vocabulary List and Incorrect Answer Note opens the learning card.
-
 - Continue effective learning more frequently and easily.
 
 ## v1.0.26 · 2026-07-17
 
 **v1.0.26 Hotfix**
-
 - Fixed an issue where learning and testing with long example sentences was difficult on some screens.
 
 ## v1.0.25 · 2026-07-15
@@ -323,14 +308,14 @@ What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 
 ## v1.0.7 · 2026-03-15
 
-1. Course Clear Card is displayed when you complete all levels of a course. Share this proud achievement with your friends.
-2. The current level in Progress displays the level of the course you most recently completed.
-3. Convenience has been improved so that selecting a course automatically focuses on the next level to study.
+- Course Clear Card is displayed when you complete all levels of a course. Share this proud achievement with your friends.
+- The current level in Progress displays the level of the course you most recently completed.
+- Convenience has been improved so that selecting a course automatically focuses on the next level to study.
 
 ## v1.0.6 · 2026-03-12
 
-1. Example sentences are added to study cards to enhance vocabulary memorization.
-2. In Premium Mode, you can set a study cycle that's optimized for you. 10 words will be delivered via push notification at the set time: 30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, or 24 hours.
+- Example sentences are added to study cards to enhance vocabulary memorization.
+- In Premium Mode, you can set a study cycle that's optimized for you. 10 words will be delivered via push notification at the set time: 30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, or 24 hours.
 
 ## v1.0.5 · 2026-03-03
 
