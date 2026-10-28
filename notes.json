@@ -137,7 +137,11 @@
    },
    {
     "type": "item",
-    "text": "복습 문제에서 보기가 하나만 나오거나 같은 정답이 연달아 나오던 문제"
+    "text": "복습 문제에서 보기가 하나만 나오던 문제"
+   },
+   {
+    "type": "item",
+    "text": "복습 문제에서 같은 정답이 연달아 나오던 문제"
    },
    {
     "type": "item",
@@ -279,7 +283,11 @@
    },
    {
     "type": "item",
-    "text": "Review questions that showed only one choice or repeated the same answer"
+    "text": "Review questions that showed only one choice"
+   },
+   {
+    "type": "item",
+    "text": "Review questions that repeated the same answer"
    },
    {
     "type": "item",

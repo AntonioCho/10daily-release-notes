@@ -46,7 +46,8 @@ What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 - Settings > Support > Send Feedback opens your mail app with the app version and device info filled in. Just write your message.
 
 **Fixes**
-- Review questions that showed only one choice or repeated the same answer
+- Review questions that showed only one choice
+- Review questions that repeated the same answer
 - Some Day topics shown in Japanese
 
 ## v1.0.45 · 2026-10-16
