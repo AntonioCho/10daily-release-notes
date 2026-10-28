@@ -4,6 +4,51 @@
 
 What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 
+## v1.0.46 · 2026-10-23
+
+**Review cards have a new look**
+- When you look over word cards before learning, one side is now hidden. Words from yesterday and 7 days ago hide the meaning; words from 3 and 14 days ago hide the word.
+- Try to recall the hidden side first, then tap the step buttons in the middle of the card.
+- Meaning hidden: (1) Say it — hear the word and read it aloud → (2) Check meaning → (3) Trace it
+- Word hidden: (1) Write it — write the word from its meaning → (2) Check word → (3) Say it
+- Steps you have done get a ✓. You don't have to follow the order, and you can move on anytime. Tap Check again to hide it.
+- The writing pad shows the word's meaning. Turn on Show guide to trace the gray word, or turn it off to write from memory. Tap outside the pad to close it.
+- Tap Say it aloud under the example to hear the sentence. Review cards no longer play sound automatically.
+
+**See today's plan first**
+- From Day 2, before you start, one screen shows today's reviews, new words, practice and test in order.
+- You can also see each review Day's topic and how many cards and questions there are. Tap Let's start when you're ready.
+
+**New review drills**
+- 7 days ago — Listen and build: hear a sentence, then tap the pieces in the order you heard them. Tap a placed piece to remove it. When it's right, you'll see the full sentence with readings and its meaning. Tap the 🔊 panel to listen again.
+- 14 days ago — words without kanji: tap the letter tiles to build the missing word. Tap a placed tile again to remove it. Words with kanji still ask you to choose the reading.
+- Days made only of kana words now get their 14-day review too.
+
+**A buzz for correct answers**
+- You'll feel a short vibration when you get an answer right in tests and reviews.
+- Choose the strength in Settings > Sound > Haptics: Off, Light, Medium, or Strong. Tap a level to feel it right away.
+- It works separately from sound effects, so you can mute sounds and keep the vibration.
+- Can't feel it? Check that vibration is on in your device settings (on iOS, Sounds & Haptics > System Haptics).
+
+**Kana Basics**
+- New rows for combo sounds (きゃ, しゃ…), small っ, long vowels and ん.
+- Letter cards show pronunciation tips, and ✍️ Trace lets you follow the stroke order. Katakana cards also show the matching hiragana.
+- Results show a teacher's comment, letters you mixed up and how to tell them apart, and words you can now read. Tap a letter or word to hear it.
+- Kana audio is built into the app, so it plays without an internet connection.
+
+**Endless OX Quiz**
+- No more time limit or timer boosters. Take your time while listening to each word.
+- One miss ends the game. When the answer is X, you'll see the word's real meaning.
+- Words done with all 4 reviews come first. Jump in from the vocabulary map on the JLPT result screen.
+
+**Release notes and feedback**
+- Find release notes in the bottom menu: My Info > Release Notes.
+- Settings > Support > Send Feedback opens your mail app with the app version and device info filled in. Just write your message.
+
+**Fixes**
+- Review questions that showed only one choice or repeated the same answer
+- Some Day topics shown in Japanese
+
 ## v1.0.45 · 2026-10-16
 
 **New**
