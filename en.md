@@ -4,6 +4,22 @@
 
 What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 
+## v1.0.47 · 2026-11-03
+
+**Payment alert fixed**
+- In some cases a failure alert appeared even though the payment had gone through. The app now checks whether the payment actually succeeded before showing an alert.
+
+**Reviews without interruptions**
+- The review request pop-up that appeared after each review is gone. When a review ends, you go straight to the next step.
+- To leave a review, go to Settings > Support > Leave a Review.
+- A store rating prompt may occasionally appear after a perfect test score or after clearing a course.
+
+**Small fixes**
+- The example 'Say it aloud' button on review cards stays marked after you tap it, like the step buttons.
+- Fixed letters sitting too low on the letter tiles in the 14-day review.
+- Fixed sentences being cut off in Release Notes (iOS).
+- Corrected readings in some example sentences.
+
 ## v1.0.46 · 2026-10-23
 
 **Review cards have a new look**

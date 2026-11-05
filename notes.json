@@ -1,5 +1,101 @@
 [
  {
+  "version": "1.0.47",
+  "date": "2026-11-03",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "결제 알림 오류를 고쳤어요"
+   },
+   {
+    "type": "item",
+    "text": "결제가 완료됐는데 실패 알림이 뜨는 경우가 있었어요. 이제 알림을 띄우기 전에 실제로 결제되었는지 먼저 확인해요."
+   },
+   {
+    "type": "heading",
+    "text": "복습이 끊기지 않아요"
+   },
+   {
+    "type": "item",
+    "text": "복습을 마칠 때마다 뜨던 리뷰 요청 팝업을 없앴어요. 복습이 끝나면 바로 다음 순서로 넘어가요."
+   },
+   {
+    "type": "item",
+    "text": "리뷰를 남기고 싶을 때는 설정 > 고객지원 > 리뷰 남기기를 눌러 주세요."
+   },
+   {
+    "type": "item",
+    "text": "테스트 만점이나 코스 클리어 뒤에 스토어 평가 창이 가끔 나올 수 있어요."
+   },
+   {
+    "type": "heading",
+    "text": "작은 문제들을 고쳤어요"
+   },
+   {
+    "type": "item",
+    "text": "복습 카드 예문의 '따라 말하기' 버튼이 단계 버튼처럼 누른 뒤 표시된 채로 남아요."
+   },
+   {
+    "type": "item",
+    "text": "14일 복습 글자 조각에서 글자가 아래로 쏠리던 문제를 고쳤어요."
+   },
+   {
+    "type": "item",
+    "text": "공지사항에서 문장이 잘리던 문제를 고쳤어요. (iOS)"
+   },
+   {
+    "type": "item",
+    "text": "일부 예문 읽기 오류를 수정했어요."
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "Payment alert fixed"
+   },
+   {
+    "type": "item",
+    "text": "In some cases a failure alert appeared even though the payment had gone through. The app now checks whether the payment actually succeeded before showing an alert."
+   },
+   {
+    "type": "heading",
+    "text": "Reviews without interruptions"
+   },
+   {
+    "type": "item",
+    "text": "The review request pop-up that appeared after each review is gone. When a review ends, you go straight to the next step."
+   },
+   {
+    "type": "item",
+    "text": "To leave a review, go to Settings > Support > Leave a Review."
+   },
+   {
+    "type": "item",
+    "text": "A store rating prompt may occasionally appear after a perfect test score or after clearing a course."
+   },
+   {
+    "type": "heading",
+    "text": "Small fixes"
+   },
+   {
+    "type": "item",
+    "text": "The example 'Say it aloud' button on review cards stays marked after you tap it, like the step buttons."
+   },
+   {
+    "type": "item",
+    "text": "Fixed letters sitting too low on the letter tiles in the 14-day review."
+   },
+   {
+    "type": "item",
+    "text": "Fixed sentences being cut off in Release Notes (iOS)."
+   },
+   {
+    "type": "item",
+    "text": "Corrected readings in some example sentences."
+   }
+  ]
+ },
+ {
   "version": "1.0.46",
   "date": "2026-10-23",
   "ko": [
