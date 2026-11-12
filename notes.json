@@ -1,5 +1,181 @@
 [
  {
+  "version": "1.0.48",
+  "date": "2026-11-11",
+  "ko": [
+   {
+    "type": "heading",
+    "text": "단어를 몇 번째 만나는지 보여 줘요"
+   },
+   {
+    "type": "item",
+    "text": "학습·복습·단어장·오답노트·집중 학습 카드 왼쪽 위에 '2回目'처럼 이 단어를 몇 번째 만나는지 표시해요."
+   },
+   {
+    "type": "item",
+    "text": "여러 곳에서 같은 단어를 찾아볼수록 숫자가 올라가요. 자주 만날수록 오래 기억에 남아요."
+   },
+   {
+    "type": "item",
+    "text": "주제는 맨 윗줄로 옮기고, 그 아래 레벨과 진행도(1 / 5)를 보여 줘요."
+   },
+   {
+    "type": "heading",
+    "text": "심화학습을 Day 1~5에서 모두 볼 수 있어요"
+   },
+   {
+    "type": "item",
+    "text": "Day 1~5에서는 학습 카드와 결과 화면 '왜 틀렸을까?'의 모든 단어에서 심화학습을 무료로 볼 수 있어요."
+   },
+   {
+    "type": "item",
+    "text": "Day 6부터는 학습 단계마다 첫 단어를 무료로 볼 수 있어요."
+   },
+   {
+    "type": "heading",
+    "text": "테스트 채점 오류를 고쳤어요"
+   },
+   {
+    "type": "item",
+    "text": "집중 학습·Day 테스트·무한 OX에서 보여 준 뜻이 맞는 뜻인데 오답으로 처리되던 문제를 고쳤어요."
+   },
+   {
+    "type": "item",
+    "text": "뜻이 일부 겹치는 단어는 오답 보기로 나오지 않아요."
+   },
+   {
+    "type": "heading",
+    "text": "음성이 겹치지 않아요"
+   },
+   {
+    "type": "item",
+    "text": "단어나 예문 음성이 나오는 중에 다른 음성을 틀면 앞 음성이 바로 멈춰요."
+   },
+   {
+    "type": "item",
+    "text": "카드를 빠르게 넘겨도 지나간 카드의 예문이 끼어들지 않아요."
+   },
+   {
+    "type": "item",
+    "text": "청해 플레이리스트를 듣는 중에 카드 음성이 나오면 플레이리스트가 잠시 멈춰요. 청해 화면에서 ▶를 누르면 이어서 들을 수 있어요."
+   },
+   {
+    "type": "heading",
+    "text": "듣고 문장 만들기가 편해졌어요"
+   },
+   {
+    "type": "item",
+    "text": "조각을 놓거나 힌트를 켜도 아래 조각이 밀리지 않아요."
+   },
+   {
+    "type": "item",
+    "text": "힌트 번역이 답 박스 안에 나와요."
+   },
+   {
+    "type": "heading",
+    "text": "프리미엄 플랜을 한 화면에서 비교해요"
+   },
+   {
+    "type": "item",
+    "text": "프리미엄 화면 아래 버튼을 누르면 평생·연간·월간 플랜을 나란히 비교하고 고를 수 있어요."
+   },
+   {
+    "type": "heading",
+    "text": "작은 개선"
+   },
+   {
+    "type": "item",
+    "text": "시작 화면 로고를 크게 바꿨어요. (iOS)"
+   }
+  ],
+  "en": [
+   {
+    "type": "heading",
+    "text": "See how many times you've met a word"
+   },
+   {
+    "type": "item",
+    "text": "Learning, review, wordbook, mistake notes and focus study cards show a tag like '2回目' in the top left — how many times you've met this word."
+   },
+   {
+    "type": "item",
+    "text": "The number goes up as you look the word up in different places. The more often you meet a word, the longer you remember it."
+   },
+   {
+    "type": "item",
+    "text": "The topic moved to the top line, with the level and progress (1 / 5) below it."
+   },
+   {
+    "type": "heading",
+    "text": "Deep Study for every word in Days 1–5"
+   },
+   {
+    "type": "item",
+    "text": "In Days 1–5, Deep Study is free for every word on learning cards and in 'Why did I miss it?' on the result screen."
+   },
+   {
+    "type": "item",
+    "text": "From Day 6, the first word of each learning step is free."
+   },
+   {
+    "type": "heading",
+    "text": "Test grading fixed"
+   },
+   {
+    "type": "item",
+    "text": "In focus study, Day tests and Infinite OX, a correct meaning was sometimes marked wrong. Fixed."
+   },
+   {
+    "type": "item",
+    "text": "Words whose meanings partly overlap no longer appear as wrong choices."
+   },
+   {
+    "type": "heading",
+    "text": "No more overlapping audio"
+   },
+   {
+    "type": "item",
+    "text": "Playing a word or example while another sound is playing now stops the first one right away."
+   },
+   {
+    "type": "item",
+    "text": "Flipping through cards quickly no longer lets an earlier card's example cut in."
+   },
+   {
+    "type": "item",
+    "text": "If a card plays audio while the Listening playlist is on, the playlist pauses. Tap ▶ on the Listening screen to resume."
+   },
+   {
+    "type": "heading",
+    "text": "Listen & Build is easier to use"
+   },
+   {
+    "type": "item",
+    "text": "Placing a piece or turning on the hint no longer pushes the pieces below."
+   },
+   {
+    "type": "item",
+    "text": "The hint translation now appears inside the answer box."
+   },
+   {
+    "type": "heading",
+    "text": "Compare Premium plans on one screen"
+   },
+   {
+    "type": "item",
+    "text": "Tap a button at the bottom of the Premium screen to compare Lifetime, Yearly and Monthly side by side and choose one."
+   },
+   {
+    "type": "heading",
+    "text": "Small improvements"
+   },
+   {
+    "type": "item",
+    "text": "Larger logo on the launch screen (iOS)."
+   }
+  ]
+ },
+ {
   "version": "1.0.47",
   "date": "2026-11-03",
   "ko": [

@@ -4,6 +4,36 @@
 
 What's new in each version of 10 Daily: JLPT Japanese Vocab. Newest first.
 
+## v1.0.48 · 2026-11-11
+
+**See how many times you've met a word**
+- Learning, review, wordbook, mistake notes and focus study cards show a tag like '2回目' in the top left — how many times you've met this word.
+- The number goes up as you look the word up in different places. The more often you meet a word, the longer you remember it.
+- The topic moved to the top line, with the level and progress (1 / 5) below it.
+
+**Deep Study for every word in Days 1–5**
+- In Days 1–5, Deep Study is free for every word on learning cards and in 'Why did I miss it?' on the result screen.
+- From Day 6, the first word of each learning step is free.
+
+**Test grading fixed**
+- In focus study, Day tests and Infinite OX, a correct meaning was sometimes marked wrong. Fixed.
+- Words whose meanings partly overlap no longer appear as wrong choices.
+
+**No more overlapping audio**
+- Playing a word or example while another sound is playing now stops the first one right away.
+- Flipping through cards quickly no longer lets an earlier card's example cut in.
+- If a card plays audio while the Listening playlist is on, the playlist pauses. Tap ▶ on the Listening screen to resume.
+
+**Listen & Build is easier to use**
+- Placing a piece or turning on the hint no longer pushes the pieces below.
+- The hint translation now appears inside the answer box.
+
+**Compare Premium plans on one screen**
+- Tap a button at the bottom of the Premium screen to compare Lifetime, Yearly and Monthly side by side and choose one.
+
+**Small improvements**
+- Larger logo on the launch screen (iOS).
+
 ## v1.0.47 · 2026-11-03
 
 **Payment alert fixed**
